@@ -303,7 +303,7 @@
   }
   .home .content h3{
     color: #fff;
-    font-size: 4.5rem;
+    font-size: 3.5rem;
     text-transform: uppercase;
   }
   .home .content h3 span{
@@ -891,6 +891,7 @@ footer .wrapper .contact li a {
     grid-template-columns: repeat(1, 1fr);
   }
 }
+
 
 
 
